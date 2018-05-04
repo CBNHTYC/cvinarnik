@@ -5,4 +5,5 @@ ini_set('display_startup_errors', 'E_ALL');
 
 require 'app/header.php';
 require 'app/footer.php';
+echo 'pidor';
 ?>
